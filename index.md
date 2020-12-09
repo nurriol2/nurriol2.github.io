@@ -3,7 +3,7 @@ title:  Main Page
 ---
 
 # Short Bio #
-My name is Niko, but I prefer to be called Elliot. While completeing my BSc. of Physics in 2019, I was a  researcher in a biological physics laboratory. Since then, I've been working as a mathematics educator for children and young adults. I'm currently searching for engineering and research positions so I can build sustainable solutions for today's most challenging problems. 
+My name is Niko, but I prefer to be called Elliot. While completing my BSc. of Physics in 2019, I was a  researcher in a biological physics laboratory. Since then, I've been working as a mathematics educator for children and young adults. I'm currently searching for engineering and research positions so I can build sustainable solutions for today's most challenging problems. 
 
 # Highlighted Work #
 ## Deep Learning Diary ##
