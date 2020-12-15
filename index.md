@@ -12,7 +12,7 @@ My Deep Learning Diary is an ongoing project to showcase solving problems and an
 ## Retroelement Invasion Hypothesis ##
 I was part of a team that researched how the genetic code evolved in eukaryotes. The results were published in the scientific journal PNAS. The paper is available as a PDF at [this link](https://www.pnas.org/content/pnas/115/49/12465.full.pdf).
 
-## Custom Automated Notifications ##
+## Custom Automatic Text Notifications ##
 At my current position, a small scheduling error almost disrupted an entire day of business. I wanted to eliminate that problem for good, so I built an automated system to handle scheduling notifications. The project repository is available at [this link](https://github.com/nurriol2/work_notifier).
 
 
