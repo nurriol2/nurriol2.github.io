@@ -2,8 +2,8 @@ title:  Hire Niko E. U.
 
 header_pages:
   - index.md
+  - writing.md
   - learnmore.md
-  - projects.md
 
 plugins:
   - jekyll-remote-theme
