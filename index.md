@@ -7,7 +7,7 @@ My name is Niko, but I prefer to be called Elliot. While completing my BSc. of P
 
 # Highlighted Work #
 ## Deep Learning Diary ##
-My Deep Learning Diary is an ongoing project to showcase solving problems and answering questions using deep learning techniques. The Diary is completely open and available to read at [this link](nurriol2.github.io/deep-learning-diary).
+My Deep Learning Diary is an ongoing project to showcase solving problems and answering questions using deep learning techniques. The Diary is completely open and available to read at [this link](/deep-learning-diary).
 
 ## Retroelement Invasion Hypothesis ##
 I was part of a team that researched how the genetic code evolved in eukaryotes. The results were published in the scientific journal PNAS. The paper is available as a PDF at [this link](https://www.pnas.org/content/pnas/115/49/12465.full.pdf).
