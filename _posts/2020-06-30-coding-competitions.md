@@ -1,5 +1,6 @@
 ---
 title:  What I Gained from 3 Different Coding Competitions
+category:  post
 permalink:  /2020/06/30/coding-competitions.html
 ---
 
