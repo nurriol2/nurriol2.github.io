@@ -1,7 +1,6 @@
 ---
 title:  What I Gained from 3 Different Coding Competitions
-date:  2020-06-30 12:0:0 +0000
-categories:  blog
+date:  2020-06-30 12:00:00 +0000
 ---
 
 Over the last few months, I've been working on building a project portfolio to showcase my abilities as a data scientist. I still have a lot to learn and refine, but I think it's rewarding to work on projects that were once just bullet points in a notebook. 
