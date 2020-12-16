@@ -15,6 +15,5 @@ defaults:
   #blog posts
   - scope:
       path: "_posts/"
-      type: posts
     values:
-      permalink: blog/:year/:month/:day/:title
+      permalink: blog/:title
