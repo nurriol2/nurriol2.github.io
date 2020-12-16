@@ -1,6 +1,6 @@
 ---
 title:  What I Gained from 3 Different Coding Competitions
-date:  2020-06-30
+date:  2020-06-30 12:0:0 +0000
 categories:  blog
 ---
 
