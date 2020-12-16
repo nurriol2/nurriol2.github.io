@@ -25,7 +25,7 @@ It was at this moment that I realized how quickly a minor mistake could've turne
 
 During the planning phase, I thought a lot about *what* I would make to solve this problem. On one hand, I could build a generalized, full-stack web application that anyone with a similar problem could use. But, did I really *need* to?
 
-If you read my last post [What I Gained from 3 Different Coding Competitions](https://elliot.bearblog.dev/coding-competitions-blog/), you might already have a sense of how much I value seeing a project through to the end. But that end isn't always clear when working on personal projects and that's what kills momentum. 
+If you read my last post [What I Gained from 3 Different Coding Competitions](https://nurriol2.github.io/blog/2020/06/30/coding-competitions.html), you might already have a sense of how much I value seeing a project through to the end. But that end isn't always clear when working on personal projects and that's what kills momentum. 
 
 For this project, I decided to define my end as the minimum viable product (MVP). That is, the most basic *thing* that fully accomplishes everything I want it to do. I defined my MVP as something that would accomplish the following, in order:
 
