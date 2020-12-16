@@ -10,3 +10,11 @@ plugins:
 remote_theme: jekyll/minima
 minima:
   skin: dark
+
+defaults:
+  #blog posts
+  - scope:
+      path: "_posts/"
+      type: posts
+    values:
+      permalink: blog/:year/:month/:day/:title
