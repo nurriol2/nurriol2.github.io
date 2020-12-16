@@ -1,7 +1,7 @@
 ---
 title:  What I Gained from 3 Different Coding Competitions
-category:  post
-permalink:  /2020/06/30/coding-competitions.html
+date:  2020-06-30
+categories:  blog
 ---
 
 Over the last few months, I've been working on building a project portfolio to showcase my abilities as a data scientist. I still have a lot to learn and refine, but I think it's rewarding to work on projects that were once just bullet points in a notebook. 
