@@ -1,6 +1,5 @@
 ---
 title:  Main Page
-layout:  single
 ---
 
 # Short Bio #
