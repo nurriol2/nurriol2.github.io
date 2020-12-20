@@ -1,5 +1,6 @@
 ---
 title:  Main Page
+layout:  post
 ---
 
 # Short Bio #
