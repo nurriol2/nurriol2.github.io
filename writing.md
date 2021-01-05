@@ -5,8 +5,8 @@ title:  Blog
 # Project Post Mortems #
 A project post mortem is a review of the successes and failures of a completed project. I write post mortems to share lessons from my experience with others.
 
-- [What I Gained from 3 Different Coding Competitions](blog/2020/06/30/coding-competitions.html)
-- [Automating Text Notifications with Python](blog/2020/07/27/coding-competitions.html)
+- [What I Gained from 3 Different Coding Competitions](blog/coding-competitions.html)
+- [Automating Text Notifications with Python](blog/text-notifications-with-python.html)
 
 # Today I Learned #
 A blog friendly version of my notes on software tips and tricks  

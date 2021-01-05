@@ -1,6 +1,6 @@
 ---
 title:  Reflections On Automating Text Notifications with Python
-permalink:  blog/2020/07/27/coding-competitions.html
+permalink:  blog/text-notifications-with-python.html
 ---
 
 I'm embarrassed to admit that it took me almost a year to notice the opportunity for this project. But thanks to the great work ethic and dedication from my director, the team has had personalized text reminders every day since I started in 2019. It wasn't until a week ago that a slight mishap kickstarted this whole project.
