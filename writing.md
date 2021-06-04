@@ -9,9 +9,11 @@ A project post mortem is a review of the successes and failures of a completed p
 - [Automating Text Notifications with Python](blog/text-notifications-with-python.html)
 
 # Today I Learned #
-A blog friendly version of my notes on software tips and tricks  
+A blog friendly version of my notes on programming 
 
 - [Software Versioning Numbers](til/versioning-numbers.html)
+
+- [Learning Rust - A Pattern Matching Exercise](til/rust-pattern-matching-exercise.html)
 
 # Artificial Intelligence #
 
