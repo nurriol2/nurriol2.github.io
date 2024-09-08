@@ -4,8 +4,6 @@ title: The Encyclopedia Agatha
 categories: [Personal Developement, Reference, Documentation]
 ---
 
-# Agatha
-
 Agatha is a collection entries from my analog [pocket notebooks](https://www.youtube.com/watch?v=34V74B0qVZo&t=1s&ab_channel=JoeVanCleave).
 
 My pocket notebook has been the most important tool at many stages of life.
