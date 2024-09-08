@@ -1,8 +1,6 @@
 ---
 layout: post
-title: The Encyclopedia Agatha
-subtitle: How I Made My Profile Picture
-
+title: How I Made My Profile Picture
 categories: [Rust]
 ---
 

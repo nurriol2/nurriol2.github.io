@@ -1,12 +1,10 @@
 ---
 layout: post
 <<<<<<< HEAD
-title: The Encyclopedia Agatha
-subtitle: Technical Details
+title: Technical Details for The Encyclopedia Agatha
 categories: Rust
 =======
-title:The Encyclopedia Agatha
-subtitle: Technical Details
+title: Technical Details for The Encyclopedia Agatha
 categories: Rust 
 >>>>>>> 56bff036ada51b9cfff7eb96d28a439d3b23e883
 ---
