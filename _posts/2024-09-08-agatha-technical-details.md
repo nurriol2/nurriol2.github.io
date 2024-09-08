@@ -1,6 +1,7 @@
 ---
 layout: post
-title:Template Post 
+title:The Encyclopedia Agatha
+subtitle: Technical Details
 categories: Rust 
 ---
 
