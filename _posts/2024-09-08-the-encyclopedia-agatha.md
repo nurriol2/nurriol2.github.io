@@ -1,11 +1,7 @@
 ---
 layout: post
-<<<<<<< HEAD
 title: The Encyclopedia Agatha
-=======
-title:The Encyclopedia Agatha 
->>>>>>> 56bff036ada51b9cfff7eb96d28a439d3b23e883
-categories: [Project, TheOdinProject]
+categories: [Personal Developement, Reference, Documentation]
 ---
 
 # Agatha

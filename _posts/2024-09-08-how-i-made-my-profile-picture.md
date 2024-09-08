@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I Made My Profile Picture
-categories: [Rust]
+categories: Rust
 ---
 
 _The Encyclopedia Agatha_ is a web app tool to generate visualizations of an
