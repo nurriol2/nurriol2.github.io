@@ -4,13 +4,11 @@ title: Technical Details for The Encyclopedia Agatha
 categories: Rust
 ---
 
-# Features
-
 _Checking off all the boxes quantitatively defines the end result as a completed
 proof of concept. The Project officially graduates to a budding Minimum
 Viable Product._
 
-## Proof of concept
+# Proof of concept
 
 - [ ] A user can download The Encyclopedia `Agatha` from GitHub
 - [ ] The user creates a new `Volume` in The Encyclopedia `Agatha`
@@ -40,7 +38,7 @@ Viable Product._
 - [ ] Add the completed `eBug-blank-tempate.jpg` to the html page as a copy-pasteable image
 - [ ] Add the `PlasmidVisualization.jpg` to the html page as a copy-pasteable image
 
-## Minimum Viable Product
+# Minimum Viable Product
 
 _Checking off all the boxes quantitatively defines the end result as a completed
 Minimum Viable Product. The project officially graduates to the Stretch Goal Phase._
@@ -55,7 +53,7 @@ Minimum Viable Product. The project officially graduates to the Stretch Goal Pha
 - [ ] The tool generates `.ico` files of the images
 - [ ] User authentication
 
-## Stretch
+# Stretch
 
 _["Everything's coming up Millhouse!"](https://elliotsmaker.space/2024-09-08-agatha/)_
 
