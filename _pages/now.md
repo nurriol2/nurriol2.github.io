@@ -4,8 +4,6 @@ title: Now
 permalink: /now/
 ---
 
-### Now
-
 A _Now Page_ is about what I'm doing right now.
 
 Right now, I'm...
