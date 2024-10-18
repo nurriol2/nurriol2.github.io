@@ -2,7 +2,6 @@
 layout: page
 title: Now
 permalink: /now/
-date: 2024-08-28
 ---
 
 ### Now
